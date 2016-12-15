@@ -1,12 +1,13 @@
-﻿using System;
+﻿using UnityEngine;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Waterworld
 {
-    public class Class1
+    public class Class1 : PartModule
     {
+        private void A()
+        {
+            
+        }
     }
 }
